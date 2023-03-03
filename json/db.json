@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Lê Hiếu",
+      "age": "26",
+      "status": "nghỉ học"
+    },
+    {
+      "id": "83189",
+      "name": "chiến",
+      "age": "26",
+      "status": "đi học"
+    }
+  ]
+}
